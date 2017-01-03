@@ -13,3 +13,4 @@ This file contains all the folders for links
 + Folder 9 - products.html (products available from the store)
 + Folder 10 - Support.html
 + Folder 11 - template.html
++ Folder 12 - Event Management Folder (Contains all the files of management site)
